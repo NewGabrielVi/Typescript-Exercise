@@ -1,5 +1,4 @@
 # TypeScript-exercise
-typescript exercise
 
 
 Crie um projeto que represente uma Conta Bancária, respeitando a seguinte estrutura e 
